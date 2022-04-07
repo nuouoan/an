@@ -7,5 +7,5 @@ This is my drawing of SpongeBob SquarePants and Patrick:
 This is a landscape photo:
 ![in 2018](photo.jpg)
 
-This is me:
+This is a photo of my college days:
 ![in 2018](2018.jpg)
